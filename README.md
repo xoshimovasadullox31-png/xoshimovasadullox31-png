@@ -1,4 +1,4 @@
-## Hi there 👋
+  ## Hi there 👋
 
 <!--
 **xoshimovasadullox31-png/xoshimovasadullox31-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/Tme0813) &nbsp; 📸 [Instagram](https://instagram.com/USERNAME) &nbsp; 📘 [Facebook](https://facebook.com/dostonbek.turgunov)  &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
+- 📬 [Telegram]([https://t.me/Tme0813](https://t.me/sobitxon5051)) &nbsp; 📸 [Instagram](https://instagram.com/USERNAME) &nbsp; 📘 [Facebook](https://facebook.com/dostonbek.turgunov)  &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
 
 ---
 
